@@ -10,6 +10,9 @@ Drag the built mod into your mods folder and enjoy :)
 ## Keybinds
 
 O Key: Toggles all packet sending on/off.
+
 P Key: Toggles the ability to close GUIs (like chests) without the server knowing.
+
 K Key: Saves the contents of the currently open GUI to a "default" slot.
+
 L Key: "Loads" the saved GUI state by printing its contents to the chat.
