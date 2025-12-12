@@ -1,9 +1,15 @@
-# Fabric Example Mod
+# [UNOFFICIAL] UI-UTILS MOD RE-WRITE FOR VERSION 1.21.11
 
 ## Setup
 
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up) that relates to the IDE that you are using.
+Open in an IDE to auto-detect and install gradle dependencies. Open a terminal and run the following command to build it:
+```./gradlew build```
 
-## License
+Drag the built mod into your mods folder and enjoy :)
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Keybinds
+
+O Key: Toggles all packet sending on/off.
+P Key: Toggles the ability to close GUIs (like chests) without the server knowing.
+K Key: Saves the contents of the currently open GUI to a "default" slot.
+L Key: "Loads" the saved GUI state by printing its contents to the chat.
